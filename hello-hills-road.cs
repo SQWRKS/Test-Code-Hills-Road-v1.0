@@ -5,15 +5,15 @@ using System;
 namespace Hello
 
 {
-
+//creating a class 
 class HelloHillsRoad
 
 {
-
+// creating a main area of code
 static void Main()
 
 {
-
+// writing a line in console
 System.WriteLine("Hello Hills Road!");
 
 }
